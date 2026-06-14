@@ -17,10 +17,12 @@ int main()
             cout <<ch;
             ch++; 
         }
-        char ch=65;
-    for(int l = 1 ; l>=1; l--){
-        cout<<ch;
-         ch++; 
+       
+        ch = ch - 2;
+        for (int l = 1; l < i; l++)
+        {
+            cout << ch;
+            ch--;            
     }
         cout << endl;
     }

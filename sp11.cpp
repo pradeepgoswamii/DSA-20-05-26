@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    //this is the code for printing the pattern of alphabets in reverse order
+    //this is the code for printing the patter
     int nums;
     cout << "enter the nums ";
     cin >> nums;
